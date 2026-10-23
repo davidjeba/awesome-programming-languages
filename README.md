@@ -544,6 +544,9 @@ FAST programs are written as plain text and then sent thru the FAST compiler. Sm
 - [Hook](https://github.com/hook-lang/hook) - Hook is an imperative, cross-platform, dynamically typed scripting language that utilizes a mutable value semantics approach.
 - [Hop ](http://hop.inria.fr/home/index.html) - a multitier JavaScript also supports the Scheme programming language. With Hop.js, JavaScript and Scheme are fully interoperable and applications can mix both languages. This page mostly describes the JavaScript layer. The Scheme layer is described in a dedicated programming manual.
 - [Hope](https://github.com/dmbaturin/hope) - Hope is a lazily evaluated functional programming language developed in 1970's by Ross Paterson. It influenced the design of other lazy languages such as Miranda and Haskell.
+- HTMX - (https://github.com/bigskysoftware/htmx) A lightweight JavaScript library that extends HTML with AJAX requests, CSS transitions, and other hypermedia-driven interactions directly through HTML attributes.
+HTMX PRO -(https://github.com/hyperlibs/htmxpro) A hypermedia-first, ultra reactive UI platform featuring 200+ UI components for web, mobile, hud, OS and focused on AI-assisted development, interactive applications, and minimal frontend build tooling.
+htmFX - (https://github.com/hyperlibs/htmfx) A declarative 3D, WebGPU, and spatial simulation engine for HTMX PRO, providing HTML-based scene composition, physics simulation, particles, lighting, and spatial controls.
 - [hue](https://github.com/rsms/hue) - A functional programming language
 - [Hush](https://github.com/hush-shell/hush) - Hush is a unix shell based on the Lua programming language. Hush is written in Rust.
 - [Hy](https://github.com/hylang/hy) - A dialect of Lisp that's embedded in Python.
